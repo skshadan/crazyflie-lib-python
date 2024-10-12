@@ -39,7 +39,7 @@ setup(
     install_requires=[
         'pyusb>=1.0.0b2',
         'libusb-package~=1.0',
-        'scipy~=1.7',
+        'scipy',
         'numpy~=1.20',
     ],
 
