@@ -40,7 +40,7 @@ setup(
         'pyusb>=1.0.0b2',
         'libusb-package~=1.0',
         'scipy',
-        'numpy~=1.20',
+        'numpy',
     ],
 
     # $ pip install -e .[dev]
